@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="app_short_name">News App</string>
+    <string name="powered_by_the_guardian">AM GRAFIK AB</string>
+    <string name="not_connected">Not Connected</string>
+    <string name="nothing_happened">Nothing happened</string>
+    <string name="Subheading">2009</string>
+</resources>
